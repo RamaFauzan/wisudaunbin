@@ -1,0 +1,7 @@
+{
+  "name": "ScanObject",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
